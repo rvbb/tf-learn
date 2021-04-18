@@ -1,4 +1,4 @@
-# Prequisite
+# Prerequisite
 virtualenv
 tf-nightly-gpu # or install directly from https://developer.nvidia.com/rdp/cudnn-archive
 
