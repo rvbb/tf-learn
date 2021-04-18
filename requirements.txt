@@ -11,3 +11,4 @@ Pillow
 scikit-learn
 pandas
 tensorflow
+tensorflow-gpu
