@@ -3,12 +3,12 @@ virtualenv
 tf-nightly-gpu # or install directly from https://developer.nvidia.com/rdp/cudnn-archive
 
 #ML libs
-numpy
+numpy~=1.19.5
 scipy
 #jupyter
 matplotlib
 Pillow
 scikit-learn
 pandas
-tensorflow
+tensorflow~=2.4.1
 tensorflow-gpu
